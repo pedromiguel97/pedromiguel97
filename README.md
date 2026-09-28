@@ -6,6 +6,7 @@ I turn data into decisions. Always building reliable, cost-efficient data produc
 - 🎓 B.S. in Computer Science, with an MBA in Data Analytics & ML (Stanford Extension)
 - ☁️ 2x **AWS Certified** (Cloud Practitioner, AI Practitioner)
 - 🐍 Python Expert · Spark · SQL · FinOps · Data Quality
+- ☕ Currently learning **Java** (Maven, Spring Boot, Hibernate)
 - 🌱 Exploring skills and AI agents (Claude, Copilot Studio) applied to data
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/opedromiguel)
 
@@ -26,6 +27,12 @@ I turn data into decisions. Always building reliable, cost-efficient data produc
 **Visualization**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Currently learning**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
 ---
 
