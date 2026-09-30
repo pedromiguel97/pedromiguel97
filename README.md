@@ -27,6 +27,7 @@ I turn data into decisions. Always building reliable, cost-efficient data produc
 **Visualization**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Quicksight-E97627?style=flat&logo=quicksight&logoColor=white)
 
 **Currently learning**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
