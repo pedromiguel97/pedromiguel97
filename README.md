@@ -5,7 +5,6 @@ I turn data into decisions. Always building reliable, cost-efficient data produc
 - 🔭 Currently working on **Data & Analytics Engineering** at Itaú Unibanco
 - 🎓 B.S. in Computer Science, with an MBA in Data Analytics & ML (Stanford Extension)
 - ☁️ 2x **AWS Certified** (Cloud Practitioner, AI Practitioner)
-- 🐍 Python Expert · Spark · SQL · FinOps · Data Quality
 - ☕ Currently learning **Java** (Maven, Spring Boot, Hibernate)
 - 🌱 Exploring skills and AI agents (Claude, Copilot Studio) applied to data
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/opedromiguel)
